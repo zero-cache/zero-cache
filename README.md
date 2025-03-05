@@ -59,7 +59,7 @@ Welcome to reopened GitHub Repo, combining my previous work over at SMDX.
 
 
 # RXGDPS (legacy, reimagined, s1, reborn)
-
+![Alt text](asset/rxgdps.png)
 - **STATUS**:🔴 <mark>Halted ❌</mark>
   
   Cancelled due to:
